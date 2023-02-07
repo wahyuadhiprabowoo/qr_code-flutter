@@ -1,0 +1,6 @@
+fitur-fitur
+1. autentifikasi login firebase dengan email
+2. cloud_firestore menyimpan data min sdk 20 target 28
+3. mengambil data dari cloud_firestore secara realtime
+4. Detail product data dikirim melalui argument dan delete data product berdasarkan id
+5. export data ke pdf, open_file, path_provider, pdf
