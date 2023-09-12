@@ -67,7 +67,6 @@ class HomeController extends GetxController {
                       ProductModel product = allProducts[index];
                       return pw.TableRow(children: [
                         // jisi dari database firestore
-
                         pw.Text("${index + 1}"),
                         pw.Text("Product Code ${product.code}"),
                         pw.Text("Product Name ${product.name}"),
